@@ -1,0 +1,57 @@
+# Mimosa Rituals — Pendientes antes de lanzar la tienda
+
+Última revisión: 29 de septiembre de 2026.
+Tema a lanzar: **"Copia de LaunchYourStore-Blocky Copy"** (ID 199746945401), ahora sin publicar.
+El tema publicado ahora mismo es el antiguo ("LaunchYourStore-Blocky Copy"): **no lanzar con ese**
+(muestra "Devoluciones fáciles y gratis", que contradice la política de reembolso).
+
+## 🔴 Comprobar que es cierto (legal / reclamaciones)
+
+- [ ] **"100% Natural – ingredientes de origen vegetal"** (portada, iconos) y pie de página. Gua Sha facial = resina, cepillo facial = silicona, diadema = sintético. Son accesorios, no llevan "ingredientes".
+- [ ] **"Apto para veganas" / "Cruelty-Free"**: los cepillos corporales son de "cerdas naturales" (normalmente pelo de jabalí). Confirmar con el proveedor.
+- [ ] **"Hecho a mano / artesanal / pequeños lotes"** (portada y pie) vs "preparamos bajo demanda con nuestros proveedores" (mismo bloque).
+- [ ] **Etiqueta "OFERTA" y precios tachados** (13 de 17 productos). En España el precio de referencia debe ser el más bajo de los 30 días anteriores. Si nunca se vendió al precio tachado, quitarlo.
+- [ ] **Estadísticas "encuesta interna a 150 clientas" (93 %, 88 %, 91 %)** en portada y ficha de producto. La tienda tiene 0 ventas.
+- [ ] **Testimonios de Laura M., Marta G. y Sofía R.** (portada y ficha de producto).
+- [ ] **5 estrellas + "Valorado por nuestras clientas"** en todos los productos.
+- [ ] **"En stock, listo para enviar"**: texto fijo, sale aunque el producto se agote, y choca con "bajo demanda".
+- [ ] **Título "Anticelulítico"** en la Tabla de Gua Sha Corporal (promesa de efecto difícil de demostrar).
+- [ ] **Reseñas a cambio de un 10 %**: configurar Judge.me para marcarlas como incentivadas.
+
+## 🟠 Envíos (decidir una sola versión y aplicarla en todas partes)
+
+- [ ] **Envío gratis**: la barra superior dice desde 40 €, la tarifa de España desde 55 €, y 40 variantes están en el perfil "AutoDS Free Shipping" (siempre gratis).
+- [ ] **Plazos**: "Envío 15-25 días" (portada) vs "Preparamos y enviamos en 1-2 días laborables" (pestaña de la ficha).
+- [ ] **Internacional**: "Envío internacional / enviamos a la mayoría de países", pero solo está activo el mercado España.
+- [ ] **Stock**: varios productos tienen solo 10 unidades con seguimiento de inventario. Comprobar la sincronización con AutoDS o activar "seguir vendiendo sin stock".
+- [ ] **Precinto**: preguntar al proveedor si la esponja konjac, el cepillo facial y el Gua Sha llegan precintados (la excepción de higiene de la política solo se aplica si están precintados).
+- [ ] **Devoluciones**: decidir a dónde envía el cliente las devoluciones (el proveedor de AutoDS normalmente no las acepta).
+
+## 🟡 Textos de productos (los puedo corregir yo si me lo pides)
+
+- [ ] Diadema Spa: la descripción dice "Color: rosa (versión de marca)", pero hay 10 colores.
+- [ ] Ritual Completo y Spa en Casa: solo se elige el color del Gua Sha. ¿Qué aroma de vela y qué colores de esponja, diadema y cepillo recibe el cliente?
+- [ ] Ritual Antiedad: menciona "Cepillo de Cepillado en Seco"; en la tienda se llama "Cepillo de Masaje Corporal SPA".
+- [ ] Pie de página: "autocuidado facial", pero la mitad del catálogo es corporal.
+- [ ] Pestaña "Detalles del producto": texto genérico igual en todos los productos.
+- [ ] Bloque oculto "Devoluciones fáciles y gratis" en la ficha del tema nuevo: no reactivarlo (contradice la política).
+
+## ⚖️ Legal y configuración
+
+- [ ] **Aviso legal**: falta (nombre o razón social, NIF, dirección, datos de registro).
+- [ ] **Contacto**: faltan el número de IVA/NIF y el número comercial.
+- [ ] **Privacidad**: el texto "llámenos al ," tiene el teléfono vacío.
+- [ ] **Términos del servicio**: cambiar los 3 enlaces `https://www.claudeusercontent.com/policies/...` por `https://<tu-dominio>/policies/...` (shipping-policy, refund-policy, privacy-policy).
+- [ ] **Condiciones de venta**: opcional (plantilla en `politicas/04-condiciones-de-venta.html`).
+- [ ] **Pagos**: activar Shopify Payments o PayPal y hacer un pedido de prueba de principio a fin.
+- [ ] **Banner de cookies**: activarlo en Configuración → Privacidad del cliente.
+- [ ] **Dominio propio**: conectarlo y ponerlo como principal (en curso).
+- [ ] **Notificaciones**: revisar los emails de pedido y envío (en español y con la marca).
+- [ ] **Publicar el tema nuevo** (ID 199746945401) cuando todo lo anterior esté revisado.
+
+## ✅ Ya revisado y coherente
+
+- Devoluciones: 30 días en la política, la ficha, la tabla comparativa y las preguntas frecuentes.
+- Políticas de reembolso, envíos y términos: coherentes entre sí; IVA incluido en todas.
+- Contenido de cada pack: coincide con los productos.
+- Botón de portada: lleva al Gua Sha Facial (precio de entrada 14,95 €).
