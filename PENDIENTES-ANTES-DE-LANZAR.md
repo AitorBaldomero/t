@@ -49,6 +49,18 @@ El tema publicado ahora mismo es el antiguo ("LaunchYourStore-Blocky Copy"): **n
 - [ ] **Notificaciones**: revisar los emails de pedido y envío (en español y con la marca).
 - [ ] **Publicar el tema nuevo** (ID 199746945401) cuando todo lo anterior esté revisado.
 
+## 📣 Marketing y apps
+
+- [x] Código `BIENVENIDA10` creado (10 %, un solo uso por cliente, compatible con descuentos de envío).
+- [x] Pop-up de bienvenida en el tema nuevo (sección "Pop-up de bienvenida" del pie). Código en `tema/mr-welcome-popup.liquid`.
+- [ ] Probar el pop-up en la vista previa: registrarse con un email real y comprobar que aparece el código y que el cliente queda "suscrito" en Clientes.
+- [ ] Activar el banner de cookies (Configuración → Privacidad del cliente → Banner de cookies, región UE).
+- [ ] Activar el email de carrito abandonado de Shopify (Marketing → Automatizaciones), o el de Klaviyo, pero no los dos.
+- [ ] Instalar Klaviyo (opcional): si usas su pop-up, desactiva el del tema para que no salgan dos.
+- [ ] Judge.me: activar la petición de reseñas por email (14-20 días) y marcar como "incentivadas" las del 10 %.
+- [ ] Página de seguimiento: comprobar qué app la gestiona (AutoDS, Parcel Panel…) y que funcione.
+- [ ] Barra superior: decidir si se mantiene "DEJA TU RESEÑA Y CONSIGUE UN 10%" junto al 10 % de bienvenida (dos ofertas del 10 %).
+
 ## ✅ Ya revisado y coherente
 
 - Devoluciones: 30 días en la política, la ficha, la tabla comparativa y las preguntas frecuentes.
