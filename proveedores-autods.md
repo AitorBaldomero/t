@@ -4,6 +4,8 @@ Costes en EUR para envío a España, según el catálogo de AutoDS. El envío de
 
 ## Gua Sha Facial — Rodillo y Piedra
 
+> ⚠️ 30/09: AutoDS no ha podido importar este anuncio: "Product Unavailable" (lo ha intentado 2 veces). Los datos del catálogo pueden estar desactualizados. Antes de usarlo, abrir el enlace y comprobar que sigue a la venta.
+
 Nuevo proveedor recomendado: AliExpress 3256807120215233 (Stone's Store, 4,9★, más de 10.000 pedidos).
 - Es el mismo producto: el anuncio contiene la misma foto principal que importó AutoDS (Sebcea3d…) y los mismos códigos de variante.
 - Envío a España: 1,75 € y unos 9 días (el proveedor actual tarda unos 14).
@@ -45,3 +47,10 @@ Sin proveedor en ningún anuncio del catálogo:
 ## Coste real del envío
 
 El catálogo de AutoDS indica unos 1,75 € de envío a España en la mayoría de productos de AliExpress. Los márgenes calculados con "envío 0" son unos 1,75 € más altos de lo real.
+
+## Cambios aplicados el 30/09/2026
+
+- Shopify, stock 0 (se muestran agotadas): Gua Sha Morado/Reseda "Solo rodillo" y "Solo piedra", Negro/Blanco "Solo piedra", Vela "Vanilla" y Cepillo Facial "Amarillo".
+- AutoDS, importados como BORRADOR (no se publican en la tienda) con la etiqueta "proveedor-alternativo":
+  - Esponja konjac, proveedor A: 1005007283530271 (id AutoDS 6abcfcb72c0667c90d0719fc)
+  - Esponja konjac, proveedor B: 3256806542966853 (id AutoDS 6abcfcb76703438a8c256095)
