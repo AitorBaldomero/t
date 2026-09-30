@@ -70,10 +70,10 @@ El tema publicado ahora mismo es el antiguo ("LaunchYourStore-Blocky Copy"): **n
 - [x] Remitente de los 4 emails: "Mimosa Rituals <hola@mimosarituals.com>". Las respuestas llegan a ecom.am.sl@gmail.com.
 - [ ] (Opcional) Crear un buzón real hola@mimosarituals.com (reenvío de correo en CDmon o Google Workspace) y ponerlo como dirección de respuesta.
 - [ ] Cambiar también el remitente por defecto de la cuenta en Klaviyo (Configuración → Email) para las campañas futuras.
-- [ ] Datos de la cuenta en Klaviyo (Configuración → Cuenta): la dirección está vacía, el país es "United States" y el nombre de la organización es "mimosa_rituals". Poner la dirección real en España y el nombre "Mimosa Rituals" (salen en el pie de todos los emails; la dirección es obligatoria).
+- [x] Datos de la cuenta en Klaviyo: nombre "Mimosa Rituals" y dirección en España.
 - [x] "Lista de email" cambiada a confirmación simple (el código llega al momento).
 - [ ] Integración Shopify → Klaviyo: comprobar que los suscriptores de Shopify (pop-up del tema) se sincronizan con "Lista de email".
-- [ ] Enviar una prueba de cada email y activar los flujos (pasarlos de "Borrador" a "Activo").
+- [x] Pruebas enviadas y flujos de bienvenida y carrito abandonado ACTIVOS (30/09/2026).
 - [ ] No activar a la vez las automatizaciones de Shopify Messaging (se enviarían emails duplicados).
 
 ## ✅ Ya revisado y coherente
