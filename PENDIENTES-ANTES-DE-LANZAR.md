@@ -61,6 +61,18 @@ El tema publicado ahora mismo es el antiguo ("LaunchYourStore-Blocky Copy"): **n
 - [ ] Página de seguimiento: comprobar qué app la gestiona (AutoDS, Parcel Panel…) y que funcione.
 - [ ] Barra superior: decidir si se mantiene "DEJA TU RESEÑA Y CONSIGUE UN 10%" junto al 10 % de bienvenida (dos ofertas del 10 %).
 
+
+### Klaviyo (flujos creados en borrador el 30/09/2026)
+
+- [x] Flujo "Mimosa · Bienvenida (código BIENVENIDA10)": se activa al entrar en "Lista de email"; email 1 inmediato con el código y email 2 a los 3 días solo si no ha comprado.
+- [x] Flujo "Mimosa · Carrito abandonado": se activa con "Checkout Started"; email 1 a la hora y email 2 a las 24 h; sale del flujo al comprar.
+- [ ] Remitente: ahora es ecom.am.sl@gmail.com con el nombre "mimosarituals". Configurar el dominio de envío mimosarituals.com en Klaviyo (DNS en CDmon) y cambiar el remitente a, por ejemplo, hola@mimosarituals.com con el nombre "Mimosa Rituals".
+- [ ] Datos de la cuenta en Klaviyo: la dirección está vacía y el país es "United States". Poner la dirección real en España (sale en el pie de todos los emails y es obligatoria).
+- [ ] "Lista de email" tiene doble confirmación: cambiarla a confirmación simple para que el código llegue al momento.
+- [ ] Integración Shopify → Klaviyo: comprobar que los suscriptores de Shopify (pop-up del tema) se sincronizan con "Lista de email".
+- [ ] Enviar una prueba de cada email y activar los flujos (pasarlos de "Borrador" a "Activo").
+- [ ] No activar a la vez las automatizaciones de Shopify Messaging (se enviarían emails duplicados).
+
 ## ✅ Ya revisado y coherente
 
 - Devoluciones: 30 días en la política, la ficha, la tabla comparativa y las preguntas frecuentes.
