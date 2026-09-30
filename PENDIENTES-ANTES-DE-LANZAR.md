@@ -75,6 +75,17 @@ El tema publicado ahora mismo es el antiguo ("LaunchYourStore-Blocky Copy"): **n
 - [x] Pruebas enviadas y flujos de bienvenida y carrito abandonado ACTIVOS (30/09/2026).
 - [ ] No activar a la vez las automatizaciones de Shopify Messaging (se enviarían emails duplicados).
 
+## 📦 AutoDS y proveedores (revisado el 30/09/2026)
+
+- [ ] **Packs sin proveedor**: Ritual Cuerpo, Spa en Casa, Ritual Completo, Piel Radiante, Relax & Calma, Firmeza & Contorno y Antiedad no están en AutoDS; Ritual Facial está como "untracked". Sus pedidos NO se envían solos: hay que pedir cada componente a mano (o crear el pack en AutoDS como producto con varios proveedores).
+- [ ] **Variantes sin enlazar**: Gua Sha Facial tiene 18 variantes en Shopify y 16 en AutoDS; Esponja Konjac tiene 6 en Shopify y 7 en AutoDS. Revisar qué variantes no tienen proveedor.
+- [ ] **Sin stock en el proveedor**: 4 variantes del Gua Sha Facial, 3 de la Esponja Konjac, 1 de la Vela y 1 del Cepillo Facial tienen stock 0 en AliExpress, pero en Shopify figuran con 10 unidades. Activar la sincronización de stock de AutoDS o buscar otro proveedor.
+- [ ] **Poco stock en el proveedor**: Piedra Pómez (3), Cepillo de Cerdas (3), Cepillo SPA (5) y varias variantes con 1-6 unidades.
+- [ ] **Tabla de Gua Sha Corporal**: el envío del proveedor (6,32 €) no es gratis y AutoDS lo tiene calculado para EE. UU.; comprobar el coste real a España. Coste total aprox. 13,48 € para un precio de 18,95 €.
+- [ ] **Piedra Pómez**: margen de unos 2,40 € antes de comisiones; subir el precio o venderla solo en packs.
+- [ ] **Plazo real**: los proveedores indican unos 14 días de transporte más 1-3 días de preparación. Ajustar los textos de la tienda ("1-2 días laborables" vs "15-25 días").
+- [ ] **Método de pago en AutoDS**: añadir tarjeta o saldo para que AutoDS pueda comprar al proveedor de forma automática.
+
 ## ✅ Ya revisado y coherente
 
 - Devoluciones: 30 días en la política, la ficha, la tabla comparativa y las preguntas frecuentes.
