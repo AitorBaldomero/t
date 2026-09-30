@@ -54,3 +54,17 @@ El catálogo de AutoDS indica unos 1,75 € de envío a España en la mayoría d
 - AutoDS, importados como BORRADOR (no se publican en la tienda) con la etiqueta "proveedor-alternativo":
   - Esponja konjac, proveedor A: 1005007283530271 (id AutoDS 6abcfcb72c0667c90d0719fc)
   - Esponja konjac, proveedor B: 3256806542966853 (id AutoDS 6abcfcb76703438a8c256095)
+
+## Variantes eliminadas por falta de stock en el proveedor (30/09/2026)
+
+Comprobado con los datos del proveedor actual (AliExpress 1005006343075534). Sus códigos de variante: -01 = set, -02 = solo piedra, -03 = solo rodillo.
+
+- Gua Sha Facial, variantes eliminadas: Blanco / Solo rodillo, Morado / Solo rodillo, Reseda / Solo rodillo, Verde / Solo piedra, Morado / Solo piedra y Reseda / Solo piedra.
+- Vela: se elimina "Vanilla". Cepillo Facial: se elimina "Amarillo".
+- Stock en Shopify ajustado al del proveedor: Negro / Solo piedra 10 (se reactiva; el proveedor tiene 72), Negro / Solo rodillo 9, Rosa / Solo rodillo 6, Blanco / Solo piedra 1 y Verde / Solo rodillo 1.
+- Pendiente en AutoDS: enlazar las 6 variantes "Solo" que quedan con su variante del proveedor:
+  - Negro: rodillo Black-03, piedra Black-02
+  - Rosa: rodillo Pink-03, piedra Pink-02
+  - Blanco: piedra White-02
+  - Verde: rodillo Green-03
+- Esponja Konjac: no se elimina ningún color. Los proveedores nuevos (borradores en AutoDS) tienen los 6 colores; falta enlazarlos.
