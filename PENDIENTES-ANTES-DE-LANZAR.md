@@ -99,3 +99,12 @@ El tema publicado ahora mismo es el antiguo ("LaunchYourStore-Blocky Copy"): **n
 - [ ] Klaviyo: activar el app embed en la Copia (Personalizar → Incrustaciones de aplicaciones → Klaviyo). No está activado en ningún tema.
 - [ ] Banner de cookies: activarlo en Configuración → Privacidad del cliente (es un ajuste de toda la tienda).
 - [ ] Título del carrusel "Rituales Más Vendidos": con 0 ventas es una afirmación que hay que revisar.
+
+## Revisión AutoDS ↔ Shopify (07/10/2026)
+
+- [x] Stock de Shopify bajado al del proveedor: Vela Lavender 3 y Litchi 4; Diadema Marrón 6, Negro 6, Gris 4, Rosa 3, Blanco 7 y Morado 6; Piedra Pómez 3; Cepillo de Cerdas 3; Cepillo SPA 5.
+- [ ] AutoDS no está sincronizado: sigue mostrando los precios antiguos, stock 10 en todo y variantes borradas (Vela Vanilla, Diadema Verde). Los datos del proveedor son iguales a los del 30/09. Revisar que la monitorización de stock y precio esté activa y hacer "Sync/Resync".
+- [ ] Antes de activar la monitorización de precios de AutoDS, ajustar sus reglas a los precios nuevos de Shopify; si no, puede volver a poner los antiguos.
+- [ ] Gua Sha "Solo rodillo/Solo piedra": las 6 variantes siguen sin proveedor en AutoDS.
+- [ ] Tabla de Gua Sha Corporal: el proveedor (AutoDS Sourcing) tiene el envío calculado para EE. UU. (6,32 €); confirmar que envía a España y a qué coste.
+- [ ] Envío al cliente: 6,99 €, gratis desde 55 €. La barra superior dice "desde 40 €"; hay que unificarlo.
