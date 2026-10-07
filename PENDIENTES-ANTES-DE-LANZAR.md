@@ -92,3 +92,10 @@ El tema publicado ahora mismo es el antiguo ("LaunchYourStore-Blocky Copy"): **n
 - Políticas de reembolso, envíos y términos: coherentes entre sí; IVA incluido en todas.
 - Contenido de cada pack: coincide con los productos.
 - Botón de portada: lleva al Gua Sha Facial (precio de entrada 14,95 €).
+
+## Revisión del tema "Copia" (07/10/2026)
+
+- [x] Carrusel de la portada: muestra "Productos únicos" (antes "Packs", que están archivados). Se eliminaron 5 secciones ocultas que solo enlazaban a packs: quiz, 4 pasos, elige tu ritual, vídeo y newsletter.
+- [ ] Klaviyo: activar el app embed en la Copia (Personalizar → Incrustaciones de aplicaciones → Klaviyo). No está activado en ningún tema.
+- [ ] Banner de cookies: activarlo en Configuración → Privacidad del cliente (es un ajuste de toda la tienda).
+- [ ] Título del carrusel "Rituales Más Vendidos": con 0 ventas es una afirmación que hay que revisar.
