@@ -108,3 +108,19 @@ El tema publicado ahora mismo es el antiguo ("LaunchYourStore-Blocky Copy"): **n
 - [ ] Gua Sha "Solo rodillo/Solo piedra": las 6 variantes siguen sin proveedor en AutoDS.
 - [ ] Tabla de Gua Sha Corporal: el proveedor (AutoDS Sourcing) tiene el envío calculado para EE. UU. (6,32 €); confirmar que envía a España y a qué coste.
 - [ ] Envío al cliente: 6,99 €, gratis desde 55 €. La barra superior dice "desde 40 €"; hay que unificarlo.
+
+## Envío a España por producto (catálogo de AutoDS, datos del 18/09 al 05/10)
+
+| Producto | ¿Envía a España? | Coste + envío | Plazo | Stock del proveedor |
+|---|---|---|---|---|
+| Diadema | Sí | ~2,66 + 1,77 € | 11 días | Bien, salvo Rojo (5), Marrón (7) y Negro (9) |
+| Cepillo de Cerdas | Sí | 5,71 + 1,77 € | 15 días | 337 |
+| Piedra Pómez | Sí | 2,37 + 1,77 € | 13 días | 12 |
+| Cepillo SPA | Sí | 3,50 + 1,77 € | 15 días | ⚠️ 2 |
+| Vela | Solo Lavender y Litchi White Tea en el catálogo para España | 3,80 + 1,77 € | 9 días | 33 / 73 |
+| Gua Sha Facial | Sin confirmar (el proveedor actual no está en el catálogo) | — | — | — |
+
+- [x] Stock de Shopify ajustado (07/10): Diadema Rojo 5, Gris 10 y Rosa 10; Pómez 10; Cerdas 10; SPA 2; Vela Lavender 10 y Litchi 10.
+- [ ] Vela: comprobar en AliExpress, con la dirección en España, si English Pear Orchid, Blue Wind Chime, Shangri-La, Berlin Girl y Sea Salt Sage se pueden enviar a España.
+- [ ] Gua Sha Facial: abrir aliexpress.com/item/1005006343075534.html con la dirección en España y comprobar el envío.
+- [ ] Cepillo SPA: buscar un proveedor con más stock.
