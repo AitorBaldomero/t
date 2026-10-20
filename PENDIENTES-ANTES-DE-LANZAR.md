@@ -134,7 +134,7 @@ Corregido hoy:
 - [x] Gua Sha Pink-01, Black-01 y White-01 a 0 (proveedor sin stock).
 
 Pendiente (manual):
-- [ ] Términos del servicio: 3 enlaces siguen apuntando a claudeusercontent.com (sin permiso para editar políticas).
+- [x] Términos del servicio: los 3 enlaces apuntan ya a las políticas correctas (corregido 20/10).
 - [ ] Página "Preguntas": dice envío España 6,99 € y UE 8,99 €. Debe decir 2,99 € y solo España (Personalizar → página contact).
 - [ ] Información de contacto: nombre comercial "mimosa_rituals", sin teléfono ni NIF. Política de privacidad: "llámenos al ," (teléfono vacío).
 - [ ] Pagos sin comprobar (sin permiso) y 0 pedidos: falta el pedido de prueba.
