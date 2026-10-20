@@ -144,3 +144,13 @@ Pendiente (manual):
 - [ ] Cepillo con Mango: opción "Smell".
 - [x] Página "Preguntas": envío corregido a 2,99 € (gratis desde 55 €, solo España).
 - [x] Muestras de color: nueva sección `mr-swatch-colors` en el pie (tema/mr-swatch-colors.liquid) que da color a Pink-01, Blue, Madera Natural, etc. sin renombrar variantes.
+
+## Revisión tras publicar el tema (20/10/2026)
+
+- [x] Tema publicado: "Copia de LaunchYourStore-Blocky Copy" (pop-up, colores de variantes, Preguntas con 2,99 €, Klaviyo y Judge.me activos).
+- [x] Envíos: un solo perfil (España 2,99 € / gratis desde 55 €) con los 7 productos; AutoDS no ha vuelto a crear su perfil.
+- [x] Políticas: enlaces de los Términos correctos.
+- [ ] Información de contacto: nombre comercial, teléfono y NIF; teléfono vacío en la política de privacidad.
+- [ ] Pagos y pedido de prueba (0 pedidos).
+- [ ] Seguimiento de stock de AutoDS aún sin efecto (Diadema Morada 11, Pómez 12).
+- [ ] Klaviyo: dominio send.mimosarituals.com "activo", pero los registros DNS figuran como no verificados; comprobar en Klaviyo.
