@@ -124,3 +124,21 @@ El tema publicado ahora mismo es el antiguo ("LaunchYourStore-Blocky Copy"): **n
 - [ ] Vela: comprobar en AliExpress, con la dirección en España, si English Pear Orchid, Blue Wind Chime, Shangri-La, Berlin Girl y Sea Salt Sage se pueden enviar a España.
 - [ ] Gua Sha Facial: abrir aliexpress.com/item/1005006343075534.html con la dirección en España y comprobar el envío.
 - [ ] Cepillo SPA: buscar un proveedor con más stock.
+
+## Revisión completa (20/10/2026)
+
+Corregido hoy:
+- [x] Perfil de envío "AutoDS Free Shipping" recreado por AutoDS (Cepillo con Mango con envío gratis): mango movido al Perfil general y perfil eliminado.
+- [x] Carrusel "Nuestros Favoritos" de la portada: solo mostraba 2 productos. Los 7 activos tienen ahora tipo "Productos únicos".
+- [x] Email 2 de bienvenida (Klaviyo, en vivo): ya no recomienda los packs archivados; enlaza a /collections/all.
+- [x] Gua Sha Pink-01, Black-01 y White-01 a 0 (proveedor sin stock).
+
+Pendiente (manual):
+- [ ] Términos del servicio: 3 enlaces siguen apuntando a claudeusercontent.com (sin permiso para editar políticas).
+- [ ] Página "Preguntas": dice envío España 6,99 € y UE 8,99 €. Debe decir 2,99 € y solo España (Personalizar → página contact).
+- [ ] Información de contacto: nombre comercial "mimosa_rituals", sin teléfono ni NIF. Política de privacidad: "llámenos al ," (teléfono vacío).
+- [ ] Pagos sin comprobar (sin permiso) y 0 pedidos: falta el pedido de prueba.
+- [ ] Seguimiento de stock de AutoDS sin confirmar: Diadema Purple (prov. 1) y Pómez (prov. 2) siguen en 10-12.
+- [ ] Diadema: la descripción dice "9 colores", solo Azul y Morado tienen stock.
+- [ ] Variantes en inglés (Pink-01, Lavender…): las muestras de color del tema esperan nombres en español.
+- [ ] Cepillo con Mango: opción "Smell".
