@@ -139,7 +139,7 @@ Pendiente (manual):
 - [ ] Información de contacto: nombre comercial "mimosa_rituals", sin teléfono ni NIF. Política de privacidad: "llámenos al ," (teléfono vacío).
 - [ ] Pagos sin comprobar (sin permiso) y 0 pedidos: falta el pedido de prueba.
 - [ ] Seguimiento de stock de AutoDS sin confirmar: Diadema Purple (prov. 1) y Pómez (prov. 2) siguen en 10-12.
-- [ ] Diadema: la descripción dice "9 colores", solo Azul y Morado tienen stock.
+- [x] Diadema: descripción cambiada a "elige tu color entre los disponibles" (20/10).
 - [ ] Variantes en inglés (Pink-01, Lavender…): las muestras de color del tema esperan nombres en español.
 - [ ] Cepillo con Mango: opción "Smell".
 - [x] Página "Preguntas": envío corregido a 2,99 € (gratis desde 55 €, solo España).
