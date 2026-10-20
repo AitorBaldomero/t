@@ -1,0 +1,29 @@
+{%- comment -%}
+  Colores de las muestras de variantes cuyo nombre viene en inglés del proveedor (AutoDS).
+  El tema pinta cada muestra con el nombre del valor; estos nombres no son colores CSS válidos,
+  así que aquí se les asigna el color de la marca. No cambia los nombres de las variantes.
+{%- endcomment -%}
+<style>
+  .blocky-product-color-swatch[title="Pink-01"],.blocky-product-color-swatch[title="Pink"]{--bky-swatch-color:#E8A6B8 !important}
+  .blocky-product-color-swatch[title="Purple-01"],.blocky-product-color-swatch[title="Purple"]{--bky-swatch-color:#9B7BB8 !important}
+  .blocky-product-color-swatch[title="Green-01"]{--bky-swatch-color:#9CC5A1 !important}
+  .blocky-product-color-swatch[title="Black-01"],.blocky-product-color-swatch[title="Black"]{--bky-swatch-color:#1C1C1C !important}
+  .blocky-product-color-swatch[title="White-01"],.blocky-product-color-swatch[title="White"]{--bky-swatch-color:#F2F0EC !important}
+  .blocky-product-color-swatch[title="Reseda"]{--bky-swatch-color:#C7CBA6 !important}
+  .blocky-product-color-swatch[title="Grey"]{--bky-swatch-color:#9B9B98 !important}
+  .blocky-product-color-swatch[title="Brown"]{--bky-swatch-color:#6B4A38 !important}
+  .blocky-product-color-swatch[title="Rose Red"]{--bky-swatch-color:#C8455B !important}
+  .blocky-product-color-swatch[title="Blue"]{--bky-swatch-color:#8FB7D6 !important}
+  .blocky-product-color-swatch[title="Yellow"]{--bky-swatch-color:#EBD26B !important}
+  .blocky-product-color-swatch[title="Madera Natural"]{--bky-swatch-color:#A9743A !important}
+</style>
+
+{% schema %}
+{
+  "name": "Colores de variantes",
+  "tag": "div",
+  "class": "section-mr-swatch-colors",
+  "enabled_on": { "groups": ["footer"] },
+  "settings": []
+}
+{% endschema %}

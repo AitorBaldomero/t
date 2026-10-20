@@ -142,3 +142,5 @@ Pendiente (manual):
 - [ ] Diadema: la descripción dice "9 colores", solo Azul y Morado tienen stock.
 - [ ] Variantes en inglés (Pink-01, Lavender…): las muestras de color del tema esperan nombres en español.
 - [ ] Cepillo con Mango: opción "Smell".
+- [x] Página "Preguntas": envío corregido a 2,99 € (gratis desde 55 €, solo España).
+- [x] Muestras de color: nueva sección `mr-swatch-colors` en el pie (tema/mr-swatch-colors.liquid) que da color a Pink-01, Blue, Madera Natural, etc. sin renombrar variantes.
