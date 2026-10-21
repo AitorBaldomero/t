@@ -154,3 +154,10 @@ Pendiente (manual):
 - [ ] Pagos y pedido de prueba (0 pedidos).
 - [ ] Seguimiento de stock de AutoDS aún sin efecto (Diadema Morada 11, Pómez 12).
 - [ ] Klaviyo: dominio send.mimosarituals.com "activo", pero los registros DNS figuran como no verificados; comprobar en Klaviyo.
+
+## Todo "agotado" en la tienda (21/10/2026)
+
+- [x] Causa: al borrar el perfil "AutoDS Free Shipping" (20/10), la ubicación "AutoDS prod-xbxjnyuv" (donde está todo el stock) quedó sin asignar a ningún perfil de envío, así que Shopify no podía enviar ese stock y mostraba los productos agotados. Añadida al "Perfil general" (España 2,99 € / gratis desde 55 €); ya no queda ninguna ubicación sin tarifa.
+- [x] Stock suelto en "Calle Colombia 2" (Diadema Morada 1, Pómez 2) puesto a 0 para que los pedidos vayan siempre a AutoDS.
+- [x] El seguimiento de stock de AutoDS funciona: la Diadema tiene los 9 colores repuestos y la Vela Sea Salt Sage ha pasado a 0.
+- Ojo: si AutoDS vuelve a crear su perfil "AutoDS Free Shipping", no borrarlo sin mover antes su ubicación al Perfil general.
