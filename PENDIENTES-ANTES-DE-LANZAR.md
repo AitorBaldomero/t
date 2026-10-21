@@ -161,3 +161,5 @@ Pendiente (manual):
 - [x] Stock suelto en "Calle Colombia 2" (Diadema Morada 1, Pómez 2) puesto a 0 para que los pedidos vayan siempre a AutoDS.
 - [x] El seguimiento de stock de AutoDS funciona: la Diadema tiene los 9 colores repuestos y la Vela Sea Salt Sage ha pasado a 0.
 - Ojo: si AutoDS vuelve a crear su perfil "AutoDS Free Shipping", no borrarlo sin mover antes su ubicación al Perfil general.
+- [x] Diadema a 9,99 € en los 9 colores (21/10). AutoDS la había bajado a ~7,70 € con el seguimiento de precios.
+- [ ] Vela: AutoDS la ha bajado de 16,95 € a 14,95 € (21/10, 04:25). Decidir precio y revisar las reglas de la pestaña "Precios" de AutoDS o desactivar el seguimiento de precios.
