@@ -68,3 +68,14 @@ Comprobado con los datos del proveedor actual (AliExpress 1005006343075534). Sus
   - Blanco: piedra White-02
   - Verde: rodillo Green-03
 - Esponja Konjac: no se elimina ningún color. Los proveedores nuevos (borradores en AutoDS) tienen los 6 colores; falta enlazarlos.
+
+## Variantes eliminadas en Shopify (22/10/2026), proveedor con stock 0
+
+| Producto | Variante | SKU |
+|---|---|---|
+| Gua Sha Facial — Rodillo y Piedra | Pink-01 | 607f2ccf-27be-4fa7-adb9-e0cbd9c83e0d |
+| Gua Sha Facial — Rodillo y Piedra | Black-01 | c72eb279-3caf-4f1b-ac3e-247dc183751c |
+| Gua Sha Facial — Rodillo y Piedra | White-01 | 46b741b5-e04f-462f-acef-7c1530ad4dba |
+| Vela Aromática Mimosa | Sea Salt Sage | f8152097-f498-47db-882f-6092de6fe01a |
+
+Pendiente: borrar estas 4 variantes también en AutoDS (si no, da el error "Product variant is missing ID attribute").
