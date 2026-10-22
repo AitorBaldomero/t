@@ -163,3 +163,13 @@ Pendiente (manual):
 - Ojo: si AutoDS vuelve a crear su perfil "AutoDS Free Shipping", no borrarlo sin mover antes su ubicación al Perfil general.
 - [x] Diadema a 9,99 € en los 9 colores (21/10). AutoDS la había bajado a ~7,70 € con el seguimiento de precios.
 - [ ] Vela: AutoDS la ha bajado de 16,95 € a 14,95 € (21/10, 04:25). Decidir precio y revisar las reglas de la pestaña "Precios" de AutoDS o desactivar el seguimiento de precios.
+
+## ¿Lista para lanzar? (22/10/2026) — Todavía no
+
+Bloqueantes:
+- [ ] Información de contacto: nombre comercial "mimosa_rituals", sin teléfono ni NIF; "llámenos al ," en privacidad.
+- [ ] AutoDS seguimiento de precios: ha vuelto a poner la Diadema a 7,70–7,78 € (se puso a 9,99 € el 21/10). Desactivarlo y volver a fijar precios.
+- [ ] AutoDS: borrar Gua Sha Pink-01/Black-01/White-01 y Vela Sea Salt Sage (siguen allí: 6 y 7 variantes).
+- [ ] Pagos sin comprobar y 0 pedidos: falta el pedido de prueba.
+
+OK: tema publicado, envíos (2 ubicaciones con tarifa), 7 productos a la venta, descuentos activos, políticas y enlaces correctos, Klaviyo con 3 flujos en vivo.
