@@ -182,3 +182,10 @@ OK: tema publicado, envíos (2 ubicaciones con tarifa), 7 productos a la venta, 
 - [ ] Información de contacto sin nombre comercial correcto, teléfono ni NIF.
 - [ ] Pagos sin comprobar; 0 pedidos.
 - [ ] AutoDS: el conector necesita volver a autorizarse; no se ha podido revisar.
+
+## Variantes y fotos (26/10/2026)
+
+- [x] Todas las variantes de la tienda se pueden comprar (Shopify: availableForSale y stock vendible online en las 25 variantes de los 7 productos).
+- [x] Fotos de colores que no se venden quitadas de la galería (siguen en Contenido → Archivos): Diadema Verde; Gua Sha Rosa, Negro y Blanco (rodillo, piedra y set).
+- [ ] Revisar a ojo las 5 fotos generales de la Diadema y del Gua Sha (pueden mostrar varios colores juntos).
+- [ ] Diadema "Pink": usa la foto general como foto de variante; no hay foto propia del rosa.
