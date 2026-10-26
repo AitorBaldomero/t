@@ -173,3 +173,12 @@ Bloqueantes:
 - [ ] Pagos sin comprobar y 0 pedidos: falta el pedido de prueba.
 
 OK: tema publicado, envíos (2 ubicaciones con tarifa), 7 productos a la venta, descuentos activos, políticas y enlaces correctos, Klaviyo con 3 flujos en vivo.
+
+## Revisión 26/10/2026 — Todavía no
+
+- [ ] El tema publicado es otra vez el ANTIGUO ("LaunchYourStore-Blocky Copy", de agosto): sin pop-up, sin colores de variantes y con la página Preguntas antigua. Volver a publicar "Copia de LaunchYourStore-Blocky Copy".
+- [x] Diadema otra vez a 9,99 € (AutoDS la había vuelto a bajar a 7,70 €; el seguimiento de precios sigue activo).
+- [x] Vela: quitado "Sea Salt Sage" de la guía de aromas de la descripción.
+- [ ] Información de contacto sin nombre comercial correcto, teléfono ni NIF.
+- [ ] Pagos sin comprobar; 0 pedidos.
+- [ ] AutoDS: el conector necesita volver a autorizarse; no se ha podido revisar.
