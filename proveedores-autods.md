@@ -79,3 +79,8 @@ Comprobado con los datos del proveedor actual (AliExpress 1005006343075534). Sus
 | Vela Aromática Mimosa | Sea Salt Sage | f8152097-f498-47db-882f-6092de6fe01a |
 
 Pendiente: borrar estas 4 variantes también en AutoDS (si no, da el error "Product variant is missing ID attribute").
+
+## Gua Sha: colores restaurados (26/10/2026)
+
+El usuario comprobó en AliExpress (1005006343075534, envío a España) que Rosa, Negro y Blanco sí se pueden comprar; el stock 0 de AutoDS era un dato antiguo. Recreadas en Shopify con el mismo nombre y SKU que en AutoDS, 19,99 €, stock 10 en la ubicación AutoDS, y fotos devueltas a la galería. Orden igual que en AutoDS: Pink-01, Purple-01, Green-01, Black-01, Reseda, White-01.
+NO borrar estas variantes en AutoDS. Sigue pendiente borrar en AutoDS la Vela "Sea Salt Sage" (error missing ID), salvo que también esté disponible en AliExpress.
