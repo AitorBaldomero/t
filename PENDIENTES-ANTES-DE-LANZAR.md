@@ -198,3 +198,13 @@ OK: tema publicado, envíos (2 ubicaciones con tarifa), 7 productos a la venta, 
 - Stock proveedor de todo lo que se vende: OK. Bajo: Pómez 2, Vela Litchi 3, Diadema Rose Red 4, Vela Lavender 6, Diadema Brown 7.
 - Coste proveedor actual + 1,77 € envío → margen al precio de Shopify: Gua Sha ~12 €, Tabla ~15,7 €, Mango ~8,7 €, Cerdas ~6,3 €, Vela ~5–6 €, Pómez ~3,7 €, Diadema ~3 €.
 - [x] Vela a 15,99 € en los 6 aromas (26/10). Seguimiento de precios de AutoDS desactivado según el usuario; vigilar que no vuelva a cambiar Vela (15,99) ni Diadema (9,99).
+
+## Revisión tras el lanzamiento (04/11/2026)
+
+- [x] Tema publicado: "Copia de LaunchYourStore-Blocky Copy".
+- [x] AutoDS volvió a crear "AutoDS Free Shipping" (esta vez con la Vela → envío gratis). Vela movida al Perfil general y perfil borrado; la ubicación de AutoDS ya estaba en el Perfil general, sin productos agotados.
+- [ ] Cepillo con Mango: ya no existe en Shopify (borrado), pero AutoDS lo sigue teniendo como activo (proveedor 129 uds). Confirmar si fue intencionado; si sí, borrarlo también en AutoDS.
+- [ ] Tabla de Gua Sha: proveedor a 0 → agotada en la tienda. Comprobar en AliExpress (3256805851899314) o buscar otro proveedor.
+- [x] Seguimiento de existencias funciona: Diadema Amarillo (proveedor 2) agotado; error "missing ID" de la Vela resuelto.
+- Precios: Vela 19,99 €, Tabla 24,99 €, Gua Sha 19,99 €, Cerdas 14,99 €, Diadema 9,99 €, Pómez 9,99 €; AutoDS no los ha cambiado.
+- 0 pedidos. Klaviyo: 3 flujos en vivo, dominio de envío activo.
