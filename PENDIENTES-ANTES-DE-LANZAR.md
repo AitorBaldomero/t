@@ -208,3 +208,5 @@ OK: tema publicado, envíos (2 ubicaciones con tarifa), 7 productos a la venta, 
 - [x] Seguimiento de existencias funciona: Diadema Amarillo (proveedor 2) agotado; error "missing ID" de la Vela resuelto.
 - Precios: Vela 19,99 €, Tabla 24,99 €, Gua Sha 19,99 €, Cerdas 14,99 €, Diadema 9,99 €, Pómez 9,99 €; AutoDS no los ha cambiado.
 - 0 pedidos. Klaviyo: 3 flujos en vivo, dominio de envío activo.
+- [x] Cepillo con Mango: borrado por el usuario a propósito → borrarlo también en AutoDS.
+- [x] Tabla: el usuario confirma que se puede comprar en AliExpress; stock repuesto a 10 en la ubicación AutoDS (04/11). AutoDS puede volver a ponerla a 0 si su dato del proveedor sigue en 0 → sincronizar el producto en AutoDS.
