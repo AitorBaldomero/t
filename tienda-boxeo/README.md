@@ -50,8 +50,8 @@ Tienda: **Vendra** (1xww9u-ci.myshopify.com), plan Basic, EUR, email de contacto
 - [ ] Afirmaciones a confirmar: "lavable a máquina", "acolchado integrado", "velcro reforzado".
 
 **Envíos** (una ubicación: Calle Mercedes Formica 1, Las Rozas).
-- España: Estándar 2,99 €, gratis desde 60 €, y Premium 24/48 h a 7 €.
-- [ ] La política dice "gratis a partir de 50 €", pero la tarifa es desde 60 € (3 vendas a 24,99 €). Texto corregido a 60 € en `politicas-corregidas.md`, falta pegarlo.
+- España: Estándar 2,99 € (hasta 44,99 €), **gratis desde 45 €** (2 vendas), y Premium 24/48 h a 7 €. [x] Umbral bajado de 60 € a 45 € (18/11).
+- [ ] La política dice "gratis a partir de 50 €"; hay que cambiarla a 45 € (texto en `politicas-corregidas.md`, falta pegarlo). Revisar también el tema (barra superior, preguntas frecuentes).
 - [x] Baleares quitada de la zona de envío (18/11), como dice la política: solo península.
 - [ ] Tarifas sin confirmar con el coste real de la mensajería.
 

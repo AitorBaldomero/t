@@ -8,9 +8,9 @@ El conector no tiene permiso para editar las políticas. Se cambian en **Shopify
 > Envío gratuito: Ofrecemos envío gratuito en pedidos superiores a 50€ para envío estándar en España peninsular.
 
 **Poner:**
-> Envío gratuito: Ofrecemos envío estándar gratuito en pedidos de 60 € o más en España peninsular.
+> Envío gratuito: Ofrecemos envío estándar gratuito en pedidos de 45 € o más en España peninsular.
 
-(Es lo que cobra el checkout: gratis desde 60 €. Si prefieres otro umbral, dímelo y cambio la tarifa y este texto a la vez.)
+(Es lo que cobra el checkout desde el 18/11: gratis desde 45 €, es decir, con 2 vendas.)
 
 **Quitar** (apartado 8):
 > Dirección: Calle Mercedes Formica nº1, 28232, Madrid, España
