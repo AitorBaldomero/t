@@ -40,8 +40,8 @@ Tienda: **Vendra** (1xww9u-ci.myshopify.com), plan Basic, EUR, email de contacto
 - Pendiente: revisar el contenido y el estilo del tema.
 
 **Producto**: uno solo, "Vendas diseñadas para entrenamientos diarios", con 3 fotos.
-- Tallas S/M/L a 30 €.
-- [ ] **Stock 0 en las 3 tallas** (sin vender si se agota): la tienda sale agotada. Poner el stock real de casa.
+- Tallas S/M/L. [x] Precio bajado de 30 € a **24,99 €** (18/11).
+- [x] Stock puesto a **25 por talla** en Calle Mercedes Formica 1 (18/11). Antes estaba a 0 y la tienda salía agotada.
 - [ ] Peso 0 kg en las variantes: poner el peso real (lo usan las etiquetas de envío).
 - [ ] Coste por unidad vacío: ponerlo para ver el margen.
 - [ ] Título poco claro para Google y anuncios ("Vendas diseñadas para entrenamientos diarios"). SEO sin título ni descripción. Fotos sin texto alternativo.
@@ -51,8 +51,8 @@ Tienda: **Vendra** (1xww9u-ci.myshopify.com), plan Basic, EUR, email de contacto
 
 **Envíos** (una ubicación: Calle Mercedes Formica 1, Las Rozas).
 - España: Estándar 2,99 €, gratis desde 60 €, y Premium 24/48 h a 7 €.
-- [ ] La política dice "gratis a partir de 50 €", pero la tarifa es desde 60 €. Con un precio de 30 €, 2 unidades = 60 € (hay que decidir el umbral).
-- [ ] La política dice "solo península, sin Baleares", pero la zona incluye Baleares (PM). Canarias, Ceuta y Melilla sí están excluidas.
+- [ ] La política dice "gratis a partir de 50 €", pero la tarifa es desde 60 € (3 vendas a 24,99 €). Texto corregido a 60 € en `politicas-corregidas.md`, falta pegarlo.
+- [x] Baleares quitada de la zona de envío (18/11), como dice la política: solo península.
 - [ ] Tarifas sin confirmar con el coste real de la mensajería.
 
 **Legal**
@@ -68,3 +68,5 @@ Tienda: **Vendra** (1xww9u-ci.myshopify.com), plan Basic, EUR, email de contacto
 - Descuentos: ninguno activo.
 - Pagos: la política de privacidad menciona MONEI y PayPal. [ ] Comprobar que están activos.
 - Klaviyo, Judge.me y GA4/Meta se mencionan en la privacidad, pero no he podido comprobar las apps instaladas (el conector no las muestra).
+
+- [ ] Políticas: el conector no puede editarlas. Cambios listos para pegar en `politicas-corregidas.md`.
