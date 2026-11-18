@@ -220,3 +220,15 @@ OK: tema publicado, envíos (2 ubicaciones con tarifa), 7 productos a la venta, 
 - [ ] Diadema Rojo rosado y Amarillo: agotadas (proveedor con poco stock).
 - AutoDS: el conector necesita volver a autorizarse; no se pudo revisar.
 - 0 pedidos desde el 10/11.
+
+## Revisión completa tras cambio de tema (18/11/2026, tarde)
+- Tema publicado: "Copia de LaunchYourStore-Blocky Copy" (MAIN). "Elige tu ritual" corregido: Rostro=Gua Sha, Relax=Vela, Skincare=Diadema (sustituye a la Tabla), Exfoliación=Cepillo cerdas.
+- Tabla de madera: ya no existe ni en Shopify ni en AutoDS.
+- Klaviyo Bienvenida 2 (UXSBiB): "Cuerpo: Tabla" → "Skincare: Diadema Spa"; exfoliación → cepillo de cerdas + piedra pómez.
+- AutoDS volvió a crear "AutoDS Free Shipping" con el Gua Sha (5 variantes) y zona "Rest of World" SIN ubicaciones → el Gua Sha no tenía envío válido a España. Arreglado: variantes al Perfil general (+ ubicación AutoDS 120020107641 en el grupo) y perfil AutoDS eliminado.
+- Gua Sha: White-01 ha vuelto a desaparecer (Shopify y AutoDS). Quedan Pink, Purple, Green, Black, Reseda.
+- Diadema: ya no tiene Rose Red ni Yellow (7 colores).
+- Precios AutoDS = Shopify en todos (Gua Sha 19,99 · Vela 19,99 · Cerdas 14,99 · Diadema 9,99 · Pómez 9,99).
+- Pendiente usuario: borrar en AutoDS "Cepillo De Masaje Corporal SPA Con Mango" (activo en AutoDS, no existe en Shopify).
+- Carrusel "Nuestros Favoritos" usa la colección productos-unicos (solo Pómez y Cerdas).
+- Pedidos: 0.
