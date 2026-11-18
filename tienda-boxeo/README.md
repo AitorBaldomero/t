@@ -30,3 +30,41 @@ Notas de trabajo de la tienda de vendas de boxeo ya preparadas (fastwraps). Va a
 - **Klaviyo:** bienvenida con código y carrito abandonado. No activar a la vez las automatizaciones de Shopify (emails duplicados).
 - **Comprobar qué tema está publicado** después de cada cambio (en Mimosa se volvió a publicar el antiguo sin querer).
 - **Anuncios:** empezar con poco presupuesto y pausar, no borrar, si algo falla.
+
+## Primera revisión de la tienda (18/11/2026)
+
+Tienda: **Vendra** (1xww9u-ci.myshopify.com), plan Basic, EUR, email de contacto soporte@vendra.es.
+
+**Tema**
+- Publicado: "Copia de Dawn". Sin publicar: "Dawn" y "Horizon".
+- Pendiente: revisar el contenido y el estilo del tema.
+
+**Producto**: uno solo, "Vendas diseñadas para entrenamientos diarios", con 3 fotos.
+- Tallas S/M/L a 30 €.
+- [ ] **Stock 0 en las 3 tallas** (sin vender si se agota): la tienda sale agotada. Poner el stock real de casa.
+- [ ] Peso 0 kg en las variantes: poner el peso real (lo usan las etiquetas de envío).
+- [ ] Coste por unidad vacío: ponerlo para ver el margen.
+- [ ] Título poco claro para Google y anuncios ("Vendas diseñadas para entrenamientos diarios"). SEO sin título ni descripción. Fotos sin texto alternativo.
+- [ ] Opción "Tamaño de accesorio": renombrar a "Talla".
+- [ ] Comprobar que existe la página /pages/guia-de-tallas.
+- [ ] Afirmaciones a confirmar: "lavable a máquina", "acolchado integrado", "velcro reforzado".
+
+**Envíos** (una ubicación: Calle Mercedes Formica 1, Las Rozas).
+- España: Estándar 2,99 €, gratis desde 60 €, y Premium 24/48 h a 7 €.
+- [ ] La política dice "gratis a partir de 50 €", pero la tarifa es desde 60 €. Con un precio de 30 €, 2 unidades = 60 € (hay que decidir el umbral).
+- [ ] La política dice "solo península, sin Baleares", pero la zona incluye Baleares (PM). Canarias, Ceuta y Melilla sí están excluidas.
+- [ ] Tarifas sin confirmar con el coste real de la mensajería.
+
+**Legal**
+- [x] Aviso legal, privacidad, reembolso (14 días), envíos y términos redactados.
+- [ ] NIF "en trámite de alta" en el aviso legal y la privacidad; Número de IVA vacío en Contacto.
+- [ ] Términos: dicen "los precios publicados no incluyen impuestos" (en España, a consumidores, los precios deben incluir el IVA) y hacen referencia a legislación de EE. UU.
+- [ ] Reembolso: menciona protectores bucales y ropa interior, que no se venden.
+- [ ] Dirección: el aviso legal dice "Madrid" y Contacto "Las Rozas de Madrid" (unificar).
+
+**Otros**
+- Dominio principal: el de myshopify. [ ] Conectar vendra.es (el correo ya usa ese dominio).
+- Pedidos: 1 (#1001, 23/02/2026, reembolsado; probablemente una prueba). 2 clientes.
+- Descuentos: ninguno activo.
+- Pagos: la política de privacidad menciona MONEI y PayPal. [ ] Comprobar que están activos.
+- Klaviyo, Judge.me y GA4/Meta se mencionan en la privacidad, pero no he podido comprobar las apps instaladas (el conector no las muestra).
