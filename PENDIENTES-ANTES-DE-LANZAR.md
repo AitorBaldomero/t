@@ -210,3 +210,13 @@ OK: tema publicado, envíos (2 ubicaciones con tarifa), 7 productos a la venta, 
 - 0 pedidos. Klaviyo: 3 flujos en vivo, dominio de envío activo.
 - [x] Cepillo con Mango: borrado por el usuario a propósito → borrarlo también en AutoDS.
 - [x] Tabla: el usuario confirma que se puede comprar en AliExpress; stock repuesto a 10 en la ubicación AutoDS (04/11). AutoDS puede volver a ponerla a 0 si su dato del proveedor sigue en 0 → sincronizar el producto en AutoDS.
+
+## Precios cambiados por AutoDS otra vez (18/11/2026)
+
+- AutoDS cambió precios el 13/11 a las 07:40: Gua Sha 6,22–7,07 € (5 de 6 colores, con el anuncio de Meta en marcha), Pómez 6,95 €, Cerdas 13,95 €.
+- [x] Restaurados: Gua Sha 19,99 € (6 colores), Pómez 9,99 €, Cerdas 14,99 €. Vela 19,99 € y Diadema 9,99 € no se tocaron (correctos).
+- [ ] Causa: AutoDS tiene guardados sus propios precios de venta (Gua Sha ~6,2 €, Pómez 6,95, Cerdas 13,95) y los aplica. Poner en cada producto de AutoDS el mismo precio que en Shopify y desactivar "Seguimiento de precios" en el producto (no solo en el proveedor).
+- [ ] Tabla de Gua Sha: otra vez agotada (AutoDS la puso a 0 el 04/11 tras reponerla).
+- [ ] Diadema Rojo rosado y Amarillo: agotadas (proveedor con poco stock).
+- AutoDS: el conector necesita volver a autorizarse; no se pudo revisar.
+- 0 pedidos desde el 10/11.
