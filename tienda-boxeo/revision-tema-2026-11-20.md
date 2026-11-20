@@ -95,3 +95,18 @@ Tema "Copia de Dawn". Los cambios están guardados (versión "Rediseño de porta
 - [ ] **El usuario debe publicarla:** Tienda online → Temas → "VENDRA rediseño 2026-11" → Publicar.
 - Vista previa: https://1xww9u-ci.myshopify.com/?preview_theme_id=194398814583
 - Tienda sin contraseña; dirección pública: https://1xww9u-ci.myshopify.com (vendra.es sin conectar).
+
+## Guía de tallas quitada (20/11/2026)
+
+Hecho en la tienda (en vivo):
+- Página "Guía de tallas" despublicada y redirección de /pages/guia-de-tallas a la ficha del producto (los enlaces antiguos no dan error).
+- Descripción del producto: el enlace a la guía se sustituye por las medidas (S 14–16 cm · M 16–18 cm · L 18–20 cm) y "escríbenos si dudas"; quitado "elige la más ajustada".
+
+En el tema "VENDRA rediseño 2026-11" (guardado, NO publicado: Shopify da "changed_on_shopify", probablemente porque el tema está abierto en el editor):
+- Portada: el texto "¿Qué talla? Ver la guía de tallas" pasa a "¿Qué talla? Mide tu muñeca: S 14–16 cm · M 16–18 cm · L 18–20 cm".
+- Portada: quitado el botón "Ver la guía de tallas" de "Encuentra tu talla".
+- Ficha: pestaña "Tallas" con las medidas y sin enlace.
+- Nota: Shopify quitó del tema los bloques de Judge.me (reseñas). Revisar si la app sigue instalada.
+
+## Dominio vendra.es
+- No se puede conectar desde el conector (no hay API para dominios). Lo hace el usuario en Configuración → Dominios.
