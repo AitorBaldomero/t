@@ -55,3 +55,33 @@ Ficha de producto:
 - Bajo el botón: "Envío 24/48 h · Gratis desde 45 € (2 pares)".
 - Descripción corta y bloques plegables: Beneficios, Tallas, Cuidado y lavado, Envíos y devoluciones.
 - "Talla" en lugar de "Tamaño de accesorio"; "También te puede gustar" o quitar el bloque si solo hay 1 producto.
+
+## Rediseño hecho (20/11/2026), guardado y pendiente de publicar
+
+Tema "Copia de Dawn". Los cambios están guardados (versión "Rediseño de portada y ficha de producto orientados a la venta"), pero los visitantes no los ven hasta que se publiquen.
+
+**Portada, en orden:**
+1. Hero: "Vendas de boxeo listas en 30 segundos" + "Comprar ahora".
+2. Franja de confianza: Sale en 24–48 h · Envío gratis desde 45 € · 14 días para devolver · Pago seguro.
+3. Producto con precio, tallas y botón de compra (el texto "Llévate 2 pares y el envío es gratis").
+4. Comparativa en fondo blanco: venda tradicional frente a VENDRA, con el botón "Quiero las mías".
+5. Cómo se usan (3 pasos).
+6. Encuentra tu talla (S/M/L) + guía de tallas.
+7. Preguntas frecuentes (plazo, coste de envío, talla, lavado, devoluciones).
+8. Cierre: "Diseñado por gente que entrena de verdad" + "Comprar ahora".
+- Quitado el banner "Respeto por el proceso" (salían sacos de la marca TITLE).
+
+**Ficha de producto:** línea de envío bajo el botón; pestañas Envíos / Devoluciones / Tallas; "Compartir" en español; "También te puede gustar" desactivado; sin selector de cantidad.
+
+**Ajustes:** el precio se muestra como "24,99 €", sin "EUR".
+
+**Datos de la tienda cambiados (ya en vivo):**
+- Opción "Tamaño de accesorio" → "Talla".
+- Menú del pie: el enlace "Política de Cookies" estaba roto (http://politica-de-cookies) → /pages/politica-de-cookies.
+- Corrección: el menú del pie YA enlazaba a las políticas oficiales de Shopify, no a las páginas con plantilla. Esas páginas siguen publicadas (se pueden encontrar por buscadores): conviene ocultarlas o borrarlas.
+
+**Pendiente:**
+- [ ] Confirmar "lavables a máquina" (está en las preguntas frecuentes y en la descripción).
+- [ ] Fotos propias con las vendas puestas para el hero, la ficha y "Cómo se usan".
+- [ ] Título del producto más claro (p. ej. "Vendas rápidas de boxeo VENDRA") y descripción más corta.
+- [ ] Guía de tallas: quitar "30 días para cambios sin coste" y "elige la mayor".
