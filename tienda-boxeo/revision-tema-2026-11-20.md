@@ -110,3 +110,9 @@ En el tema "VENDRA rediseño 2026-11" (guardado, NO publicado: Shopify da "chang
 
 ## Dominio vendra.es
 - No se puede conectar desde el conector (no hay API para dominios). Lo hace el usuario en Configuración → Dominios.
+
+## Cambios aplicados (20/11/2026, tarde)
+- El usuario despublicó el rediseño para poder editarlo; la web muestra temporalmente el diseño antiguo ("Copia de Dawn").
+- "VENDRA rediseño 2026-11": guardados sin guía de tallas (portada y ficha) y con los bloques de Judge.me restaurados (insignia bajo el título + widget de reseñas).
+- Incrustaciones de apps activas en el tema: Judge.me, Klaviyo y Consentik (banner de cookies). Meta (píxel) va por el canal de Facebook, no por el tema.
+- [ ] El usuario debe volver a publicar "VENDRA rediseño 2026-11" (el conector no puede publicar temas copiados).
