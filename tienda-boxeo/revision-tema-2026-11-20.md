@@ -85,3 +85,13 @@ Tema "Copia de Dawn". Los cambios están guardados (versión "Rediseño de porta
 - [ ] Fotos propias con las vendas puestas para el hero, la ficha y "Cómo se usan".
 - [ ] Título del producto más claro (p. ej. "Vendas rápidas de boxeo VENDRA") y descripción más corta.
 - [ ] Guía de tallas: quitar "30 días para cambios sin coste" y "elige la mayor".
+
+## Publicación (20/11/2026)
+
+- Lavado a máquina confirmado por el usuario.
+- No se pudo publicar "Copia de Dawn": Shopify devolvía "changed_on_shopify" (conflicto de versiones).
+- Se creó **"VENDRA rediseño 2026-11"** (gid 194398814583), una copia con el rediseño completo, revisada con capturas.
+- El conector no puede publicar esa copia ("Only agent-created themes can be published here").
+- [ ] **El usuario debe publicarla:** Tienda online → Temas → "VENDRA rediseño 2026-11" → Publicar.
+- Vista previa: https://1xww9u-ci.myshopify.com/?preview_theme_id=194398814583
+- Tienda sin contraseña; dirección pública: https://1xww9u-ci.myshopify.com (vendra.es sin conectar).
