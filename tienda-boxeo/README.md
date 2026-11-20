@@ -70,3 +70,10 @@ Tienda: **Vendra** (1xww9u-ci.myshopify.com), plan Basic, EUR, email de contacto
 - Klaviyo, Judge.me y GA4/Meta se mencionan en la privacidad, pero no he podido comprobar las apps instaladas (el conector no las muestra).
 
 - [ ] Políticas: el conector no puede editarlas. Cambios listos para pegar en `politicas-corregidas.md`.
+
+## Google / SEO (20/11/2026)
+- [x] SEO del producto: título "Vendas de boxeo rápidas VENDRA | Listas en 30 segundos" y meta descripción.
+- [ ] Descripción de la tienda (portada) vacía: Tienda online → Preferencias → título y meta descripción de la página de inicio.
+- [ ] Conectar vendra.es (Google no da confianza a 1xww9u-ci.myshopify.com).
+- [ ] Google Search Console: verificar vendra.es y enviar https://vendra.es/sitemap.xml.
+- El producto ya está publicado en el canal "Google & YouTube" (Shopping).
