@@ -77,3 +77,9 @@ Tienda: **Vendra** (1xww9u-ci.myshopify.com), plan Basic, EUR, email de contacto
 - [ ] Conectar vendra.es (Google no da confianza a 1xww9u-ci.myshopify.com).
 - [ ] Google Search Console: verificar vendra.es y enviar https://vendra.es/sitemap.xml.
 - El producto ya está publicado en el canal "Google & YouTube" (Shopping).
+
+## Dominio y apps (25/11/2026)
+- [x] vendra.es conectado como dominio principal, con https. Tema publicado: "VENDRA rediseño 2026-11".
+- [ ] Al copiar el tema, Shopify quitó las incrustaciones de apps del tema publicado (settings_data sin "blocks"): Klaviyo (pop-up), Consentik (banner de cookies) y Judge.me. Hay que activarlas a mano: Personalizar → Configuración del tema → Incrustaciones de aplicaciones.
+- [ ] Klaviyo → Configuración → Cuenta: cambiar la web a https://vendra.es.
+- [ ] Google Search Console con vendra.es + sitemap.
