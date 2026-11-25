@@ -83,3 +83,20 @@ Tienda: **Vendra** (1xww9u-ci.myshopify.com), plan Basic, EUR, email de contacto
 - [ ] Al copiar el tema, Shopify quitó las incrustaciones de apps del tema publicado (settings_data sin "blocks"): Klaviyo (pop-up), Consentik (banner de cookies) y Judge.me. Hay que activarlas a mano: Personalizar → Configuración del tema → Incrustaciones de aplicaciones.
 - [ ] Klaviyo → Configuración → Cuenta: cambiar la web a https://vendra.es.
 - [ ] Google Search Console con vendra.es + sitemap.
+
+## Comprobación 25/11/2026
+- [x] Tema publicado con Klaviyo, Consentik y Judge.me activados (settings_data con los 3 bloques).
+- [x] Pop-up de Klaviyo: en vivo, envía a "Pop Up- Captación de emails" (activa el flujo de VENDRA10), mensaje de éxito en español. La lista aún no tiene suscriptores (prueba pendiente).
+- [ ] Klaviyo → Configuración → Cuenta: la web sigue siendo vendra-7668.myshopify.com → cambiar a https://vendra.es.
+
+## Consentik (banner de cookies): puntuación 27/100
+Prioridad para España (RGPD/LSSI):
+- [ ] Bloqueo automático del rastreo antes del consentimiento (crítico de verdad en la UE: Meta, GA4 y Klaviyo no deben cargarse hasta "Aceptar").
+- [ ] Registros de consentimiento (prueba de cada consentimiento; lo exige el RGPD).
+- [ ] Integración con la Customer Privacy API de Shopify (para que el píxel de Meta respete el consentimiento).
+- [ ] Botones "Aceptar" y "Rechazar" igual de visibles en el primer nivel del banner.
+Propias de EE. UU. (CCPA), no obligatorias vendiendo solo en España; activarlas no molesta:
+- [ ] Respetar la señal GPC.
+- [ ] Enlace "No vender ni compartir" (con Smart Geo, solo para EE. UU.).
+- Smart Geo-targeting: opcional.
+Ojo: con el bloqueo automático, el pop-up de Klaviyo puede no salir hasta que el visitante acepte las cookies. Es lo correcto legalmente; comprobarlo tras activarlo.
